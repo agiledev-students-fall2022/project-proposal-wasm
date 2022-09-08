@@ -1,6 +1,6 @@
 ### Project title
 
-interative simulations on browser
+interative simulation application on browser
 
 ### What and why?
 
