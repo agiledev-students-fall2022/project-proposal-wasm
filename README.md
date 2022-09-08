@@ -1,10 +1,10 @@
 ### Project title
 
-interative simulation application on browser
+simulation on browser
 
 ### What and why?
 
-an online game or virtual reality that can support multiple users</br>
+an online game</br>
 through building this application, aim to gain a better understanding of unix/linux networking interface, protocols, and rendering algorithms
 
 ### For whom?
