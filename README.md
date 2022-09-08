@@ -4,7 +4,7 @@ interative simulations
 
 ### What and why?
 
-an online game or virtual reality that can support multiple users
+an online game or virtual reality that can support multiple users</br>
 through building this application, aim to gain a better understanding of unix/linux networking interface, protocols, and rendering algorithms
 
 ### For whom?
