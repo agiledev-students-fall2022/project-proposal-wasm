@@ -1,3 +1,25 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8405615&assignment_repo_type=AssignmentRepo)
-# Project Proposal
-Delete the contents of this file and replace with your project proposal, as described in the [instructions](./instructions.md)
+### Project title
+
+interative simulations
+
+### What and why?
+
+an online game or virtual reality that can support multiple users
+through building this application, aim to gain a better understanding of unix/linux networking interface, protocols, and rendering algorithms
+
+### For whom?
+
+for people like me, this app can have an entertaining or training aspect
+for example, if this software turn out to be a flight simulation, it can be training software for pilots
+
+### How?
+
+A description of what the system will do from an end-user's perspective. Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.
+each user's data will be stored, so data is not lost after the user exits the browser. database can be used to store per user information
+the user should see an interface that they can navigate to play different parts of the game
+simulation can be done using webgl or opengl
+compute intensive part can be written as functions in c, then compile it into webassembly, call the function from js
+
+### Scope
+
+if difficulty become too big, the game can be reduced to a simpler version
