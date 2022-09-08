@@ -5,7 +5,7 @@ simulation on browser
 ### What and why?
 
 an online game</br>
-through building this application, aim to gain a better understanding of networking interface, protocols, and rendering algorithms
+through building this application, aim to gain a better understanding of networking interface and protocols
 
 ### For whom?
 
