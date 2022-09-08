@@ -19,7 +19,7 @@ it can also have a pattern recognition aspect, for example, a user can put sever
 a description of what the system will do from an end-user's perspective</br>
 each user's data will be stored, so data is not lost after the user exits the browser. database can be used to store per user information</br>
 the user should see an interface that they can navigate to play different parts of the game</br>
-mern stack will be used, and since professor allows the use additional technologies in addition to mern, simulation can be done using webgl or opengl</br>
+mern stack will be used, and since professor allows the use additional technologies in addition to mern, simulation can be done using opengl, webgl, cuda (compute unified device architecture), glsl (opengl shading language), and mpi (message passing interface)</br>
 compute intensive or performance critical part can be written as functions in c, then compile it into webassembly, call the function from js, so the performance penalty of using an interpreted language can be lowered</br>
 
 ### Scope
