@@ -9,7 +9,7 @@ through building this application, aim to gain a better understanding of unix/li
 
 ### For whom?
 
-for people like me, this app can have an entertaining or training aspect
+for people like me, this app can have an entertaining or training aspect</br>
 for example, if this software turn out to be a flight simulation, it can be training software for pilots
 
 ### How?
