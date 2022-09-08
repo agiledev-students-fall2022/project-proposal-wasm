@@ -14,7 +14,7 @@ for example, if this software turn out to be a flight simulation, it can be trai
 
 ### How?
 
-A description of what the system will do from an end-user's perspective. Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.
+a description of what the system will do from an end-user's perspective</br>
 each user's data will be stored, so data is not lost after the user exits the browser. database can be used to store per user information
 the user should see an interface that they can navigate to play different parts of the game
 simulation can be done using webgl or opengl
